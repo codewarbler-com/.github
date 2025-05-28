@@ -117,8 +117,7 @@ have a bug? open an issue.
 need a plugin, script, or fix that doesn’t exist yet?  
 make it — or ask loud enough and we might.
 
-[https://codewarbler.com](codewarbler.com)
-
+[https://codewarbler.com](https://codewarbler.com)
 ---
 
 **codewarbler**  
